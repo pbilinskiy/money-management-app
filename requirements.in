@@ -1,0 +1,5 @@
+numpy==1.23.1
+pandas==1.4.3
+streamlit==1.11.0
+pip-tools==6.8.0
+streamlit-on-Hover-tabs==1.0.1
